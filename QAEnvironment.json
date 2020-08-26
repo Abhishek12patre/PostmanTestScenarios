@@ -1,0 +1,14 @@
+{
+	"id": "b617b60e-d7ed-49a5-af7e-03d75be6964e",
+	"name": "QA",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://reqres.in",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-08-21T14:00:56.900Z",
+	"_postman_exported_using": "Postman/7.30.1"
+}
